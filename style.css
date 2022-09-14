@@ -1,0 +1,85 @@
+
+#cont{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.history{
+    width:50%;
+}
+/* Cell phone view */
+@media (max-width: 767px)  {
+
+.history {
+float: left;
+width: 100%;
+}
+}
+.navbar{
+    background-color:rgb(7, 4, 9);
+}
+.jumbotron{ 
+ background-color: rgb(197, 111, 71);
+ color:white;
+}
+.btn-warning{
+     margin-top: 40px;
+     margin-left:14px;
+     font-size:20px;
+     padding-left: 45px;
+     padding-right:45px;
+
+}
+footer{
+     background-color: rgb(188, 158, 216);
+     padding-top:30px;
+     margin-top:5px;
+     padding-right:30px;
+     padding-left:30px;
+     margin-bottom:5px;
+}
+.btn{
+     font-size:20px;
+}
+.btn-google{
+     background:red;
+     color:white;
+}
+.btn-facebook{
+     background-color:rgb(5, 3, 14);
+     color:white;
+}
+.btn-linkedin{
+     background-color:steelblue;
+     color:white;
+}
+.btn-twitter{
+     background-color: teal;
+     color:white;
+ }
+.fa-envelope-o{
+     color:blue;
+     font-size:40px;
+}
+.text2{
+     font-size:30px;
+}
+.text1{
+     font-size:30px;
+     padding:60px;
+}
+.media{
+     margin-top:70px;
+}
+.text3{
+     font-size:30px;
+     padding:85px;
+}
+a{
+     color:black;
+     text-decoration:none;
+}
+a:hover{
+     text-decoration:none;
+     color:black;
+}
+ 
